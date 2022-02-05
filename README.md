@@ -1,5 +1,6 @@
 # Calculadora
-Calculadora hecha solo con Css
+Calculator made only with Css and Html
+
 Netlify:
 
 https://brave-kare-653c85.netlify.app
